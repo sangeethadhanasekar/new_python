@@ -4,7 +4,7 @@ def check_fermat(a,b,c,n):
         b=b**n
         c=c**n
         if  a+b==c:
-            print(c)
+  
             print("holy smokes,fermat was wrong")
         else:
             print("no,that doesn't work")
