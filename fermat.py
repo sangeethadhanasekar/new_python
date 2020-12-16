@@ -1,3 +1,4 @@
+"""Program to find whether Fermat theorem  was right or wrong!"""
 def check_fermat(a,b,c,n):
     if (n>2):
         a=a**n
