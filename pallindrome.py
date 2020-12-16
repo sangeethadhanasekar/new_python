@@ -1,5 +1,5 @@
-"""program to find whether given string is a pallindrome or not. If the given string is a pallindrome then the function 'is_palindrome' returns
-'True' otherwise it return 'False'. """
+"""program to find whether given string is a pallindrome or not. If the given string is a pallindrome then the function 'is_palindrome' 
+returns 'True' otherwise it return 'False'. """
 
 def first(word):
     return word[0]
