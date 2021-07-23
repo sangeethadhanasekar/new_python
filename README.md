@@ -1,2 +1,2 @@
 # new_python
-exercises
+   knowledge repo for storing  code for basic questions.
